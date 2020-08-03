@@ -1,1 +1,1 @@
-[!cover](https://raw.githubusercontent.com/migueldf10/migueldf10/master/cover.png)
+[!cover](https://github.com/migueldf10/migueldf10/blob/master/cover.png)
